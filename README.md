@@ -16,11 +16,13 @@ Here is the initial mania for you can select any of the following games to play.
 
 ## Ball Break Bricks
 Game may apper slow in this gif but fast in actual.
+if gif is not runnig just click over it
 
 ![brickgif](https://user-images.githubusercontent.com/52308072/88762182-4d42b500-d18e-11ea-927d-bb2165113edf.gif)
 
 ## Pong
 Game may apper slow in this gif but fast in actual.
+if gif is not runnig just click over it
 
 ![pong](https://user-images.githubusercontent.com/52308072/88763285-82500700-d190-11ea-88ea-84bd91df6e40.gif)
 
