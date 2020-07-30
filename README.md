@@ -27,7 +27,7 @@ if gif is not runnig just click over it
 ![pong](https://user-images.githubusercontent.com/52308072/88763285-82500700-d190-11ea-88ea-84bd91df6e40.gif)
 
 
-tkinkinter window when you pause the game or loss the game
+tkinter window when you pause the game or loss the game
 
 ![image](https://user-images.githubusercontent.com/52308072/88765071-90ebed80-d193-11ea-850e-d2f2c7447ed0.png)
 
