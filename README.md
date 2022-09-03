@@ -8,24 +8,19 @@ Here is the initial mania for you can select any of the following games to play.
 
 ## Snake game
 
-![sanke](https://user-images.githubusercontent.com/52308072/88761214-4e72e280-d18c-11ea-87a2-70b6253e30c7.gif)
+![snakegame](https://user-images.githubusercontent.com/52308072/188268130-a205e2b1-25b2-4c19-9ef4-e514f928b7ae.gif)
 
 ## Flapy Brird
 
 ![flapy](https://user-images.githubusercontent.com/52308072/88764095-f8a13900-d191-11ea-9456-6b5483eaa552.gif)
 
 ## Ball Break Bricks
-Game may apper slow in this gif but fast in actual.
-if gif is not runnig just click over it
 
-![brickgif](https://user-images.githubusercontent.com/52308072/88762182-4d42b500-d18e-11ea-927d-bb2165113edf.gif)
+![BallBricks](https://user-images.githubusercontent.com/52308072/188268184-d419e2de-f03a-4f24-8611-8be0c5c373c3.gif)
 
 ## Pong
-Game may apper slow in this gif but fast in actual.
-if gif is not runnig just click over it
 
-![pong](https://user-images.githubusercontent.com/52308072/88763285-82500700-d190-11ea-88ea-84bd91df6e40.gif)
-
+![pong](https://user-images.githubusercontent.com/52308072/188268070-433d668e-66d5-4a63-95ac-a224c863f3d2.gif)
 
 tkinter window when you pause the game or loss the game
 
